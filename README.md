@@ -1,1 +1,1 @@
-# CLONE-WEB-FRONTEND
+# osd-records-mgt-web
